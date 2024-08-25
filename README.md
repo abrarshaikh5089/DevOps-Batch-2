@@ -1,2 +1,6 @@
 # DevOps-Batch-2
-First Attempt 
+Login page 
+UI Page 
+Reels Page 
+Content Page 
+Posting page 
